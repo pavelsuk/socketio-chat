@@ -5,4 +5,6 @@
 * [Demo app - chat](https://socket.io/get-started/chat/)
 
 ## Installation
-`$ npm install socket.io`
+`npm install socket.io`
+`npm install --save express`
+
